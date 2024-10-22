@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922567752936",
+    "project_id": "construction-5870e",
+    "storage_bucket": "construction-5870e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922567752936:android:2d5d86fcaef005b6f89d5d",
+        "android_client_info": {
+          "package_name": "com.example.hiten"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmHirV9uiVEjLvh6b7FBqTgadLFYVDaeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
